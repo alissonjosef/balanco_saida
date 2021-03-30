@@ -181,7 +181,7 @@ const Form = {
     }
   },
 
-  formatValue(){
+  formatValues(){
     let {description, amount, date} = Form.getValues()
 
     amount = Utils.formatAmout(amount)
