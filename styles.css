@@ -136,6 +136,7 @@ header {
   line-height: 3rem;
 
   margin-top: 1rem;
+  box-shadow: 0 0 1em black;
 }
 
 .card.total {
